@@ -171,7 +171,13 @@ Whether I am architecting [ATFRO's engineering home](https://github.com/atfro) o
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" width="30" /> Professional Growth & Activity Metrics
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sidhantpande&theme=github-dark&color=B20000&line=FFD700&point=FFFFFF&area=true&area_color=B20000&hide_border=true&bg_color=0D1117&days=180" width="100%" alt="Sidhant Pande GitHub Coding Activity" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sidhantpande&theme=github-dark&color=B20000&line=FFD700&point=FFFFFF&area=true&area_color=B20000&hide_border=true&bg_color=0D1117&custom_title=Activity%20Graph" width="100%" alt="Sidhant Pande GitHub Coding Activity" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sidhantpande&theme=dark&hide_border=true&background=0D1117&ring=FFD700&fire=B20000&currStreakNum=E8EAF0&sideNums=E8EAF0&currStreakLabel=E8EAF0&sideLabels=E8EAF0&dates=E8EAF0" alt="Sidhant Pande GitHub Streak Stats" />
 </div>
 
 <br/>
