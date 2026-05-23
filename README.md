@@ -115,20 +115,34 @@ Sidhant Pande is a **Systems Architect** and the founding **CEO of ATFRO Systems
 <br/>
 
 <p align="center">
-  <!-- GitHub Lifetime Stats -->
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=sidhantpande&show_icons=true&theme=dark&title_color=B20000&icon_color=FFD700&text_color=E8EAF0&bg_color=0D1117&hide_border=true&border_color=B20000&include_all_commits=true&count_private=true" width="49%" alt="Sidhant Pande Lifetime Statistics" />
+  <!-- GitHub Lifetime Stats (Commits Hidden to prevent API inconsistency with Streak Stats) -->
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=sidhantpande&show_icons=true&theme=dark&title_color=B20000&icon_color=FFD700&text_color=E8EAF0&bg_color=0D1117&hide_border=true&border_color=B20000&include_all_commits=true&count_private=true&hide=commits" width="49%" alt="Sidhant Pande Lifetime Statistics" />
   
-  <!-- GitHub Streak Stats -->
+  <!-- GitHub Streak Stats (Shows Total Lifetime Contributions) -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sidhantpande&theme=dark&background=0D1117&ring=B20000&fire=FFD700&currStreakNum=FFD700&currStreakLabel=B20000&sideNums=E8EAF0&sideLabels=B20000&dates=E8EAF0&hide_border=true" width="49%" alt="Sidhant Pande Contribution Streak" />
 </p>
 
-<p align="center">
-  <!-- Top Languages -->
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=sidhantpande&layout=compact&theme=dark&title_color=B20000&icon_color=FFD700&text_color=E8EAF0&bg_color=0D1117&hide_border=true&border_color=B20000" width="49%" alt="Sidhant Pande Top Languages" />
-  
-  <!-- WakaTime or Trophies -->
-  <img src="https://github-profile-trophy.vercel.app/?username=sidhantpande&theme=darkhub&margin-w=15&column=3&no-bg=true" width="49%" alt="Sidhant Pande Achievements" />
-</p>
+<table width="100%">
+  <tr>
+    <td width="50%">
+      <h3 align="center">Core Systems Languages</h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Java-53K+_Lines-B20000?style=for-the-badge&logo=java&logoColor=FFD700&labelColor=0D1117" alt="Java 53K" />
+        <br/><br/>
+        <img src="https://img.shields.io/badge/TypeScript-Enterprise_Scale-3178C6?style=for-the-badge&logo=typescript&logoColor=white&labelColor=0D1117" alt="TypeScript" />
+        <br/><br/>
+        <img src="https://img.shields.io/badge/Python-AI_&_Systems-3776AB?style=for-the-badge&logo=python&logoColor=FFD700&labelColor=0D1117" alt="Python" />
+        <br/><br/>
+        <img src="https://img.shields.io/badge/C++-High_Performance-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white&labelColor=0D1117" alt="C++" />
+      </p>
+    </td>
+    <td width="50%" align="center">
+      <h3 align="center">Engineering Trophies</h3>
+      <br/>
+      <img src="https://github-profile-trophy.vercel.app/?username=sidhantpande&theme=darkhub&margin-w=15&column=3&no-bg=true" alt="Sidhant Pande Achievements" />
+    </td>
+  </tr>
+</table>
 
 <br/>
 
